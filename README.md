@@ -1,4 +1,4 @@
-# ESP32_Wifi-_config-_tool
+# ESP32 Wifi config tool
 
 <p>
   This is a small tool for sign your esp32 dev module into your wifi <br>
